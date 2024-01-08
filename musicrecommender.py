@@ -43,6 +43,7 @@ genres = {
     "blues": "https://youtu.be/ciSdKJh5iVk",
     "dwarf metal": "https://www.youtube.com/watch?v=npjF032TDDQ",
     "nu metal": "https://www.youtube.com/watch?v=cQzMHhRCTYw",
+    "math rock": "https://www.youtube.com/watch?v=e0dJWfQHF8Y",
 }
 
 class MusicGenreRecommender(QWidget):
