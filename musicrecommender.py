@@ -41,6 +41,7 @@ genres = {
     "dark folk": "https://youtu.be/Qve-mCQcAMk?t=5",
     "edm": "https://www.youtube.com/watch?v=zSwcTiurwwk",
     "blues": "https://youtu.be/ciSdKJh5iVk",
+    "dwarf metal": "https://www.youtube.com/watch?v=npjF032TDDQ",
 }
 
 class MusicGenreRecommender(QWidget):
