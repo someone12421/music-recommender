@@ -7,3 +7,4 @@ an app made to recommend songs based on the genre you inputted.
 
 ## more info
 - while most (i think) of the songs and genres were handpicked, some of them are from a random song/genre generator.
+a
