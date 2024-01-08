@@ -40,6 +40,7 @@ genres = {
     "funk": "https://youtu.be/Ms_rKoyMw8A",
     "dark folk": "https://youtu.be/Qve-mCQcAMk?t=5",
     "edm": "https://www.youtube.com/watch?v=zSwcTiurwwk",
+    "blues": "https://youtu.be/ciSdKJh5iVk",
 }
 
 class MusicGenreRecommender(QWidget):
